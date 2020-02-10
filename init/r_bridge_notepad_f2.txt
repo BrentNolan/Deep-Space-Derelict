@@ -1,0 +1,7 @@
+{
+	"name": "notepad",
+	"type": "feature",
+	"long_description": "Examining the notepad, you see three names on it: Robert, Brent, and James.",
+	"short_description": "Nothing new on the notepad.",
+	"location":"bridge"
+}

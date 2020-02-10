@@ -1,0 +1,7 @@
+{
+	"name": "mess hall",
+	"type": "room",
+	"long_description": "b_mess_hall_ld.txt",
+	"short_description": "b_mess_hall_sd.txt",
+	"adjacent_rooms": {"west":"crew quarters","east":"arboretum"}
+}

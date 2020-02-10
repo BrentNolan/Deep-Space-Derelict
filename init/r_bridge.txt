@@ -1,0 +1,7 @@
+{
+	"name": "bridge",
+	"type": "room",
+	"long_description": "r_bridge_ld.txt",
+	"short_description": "r_bridge_sd.txt",
+	"adjacent_rooms": {"south":"elevator level 1"}
+}

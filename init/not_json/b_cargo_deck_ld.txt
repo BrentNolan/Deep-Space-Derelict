@@ -1,0 +1,7 @@
+You enter the cargo deck.  There are Cargo Containers 
+filled with various supplies.  You will need to use the Manifest Terminal
+to find what you are looking for.
+
+You see the Manifest Terminal and Cargo Containers
+
+To the West is the Armory
